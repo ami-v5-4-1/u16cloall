@@ -12,4 +12,3 @@ build:
        
   ci:
     - lein version
-    - clj
