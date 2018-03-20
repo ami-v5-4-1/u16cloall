@@ -12,3 +12,4 @@ build:
        
   ci:
     - lein version
+    - clojure-version
